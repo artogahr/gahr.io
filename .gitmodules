@@ -1,0 +1,4 @@
+[submodule "themes/no-style-please"]
+	path = themes/no-style-please
+	url = https://github.com/gumxcc/zola-no-style-please.git
+	branch = main
