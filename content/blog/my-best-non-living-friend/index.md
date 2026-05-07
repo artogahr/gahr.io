@@ -6,18 +6,26 @@ description = "A love letter to a battered keyboard that has been there for ever
 tags = ["keyboards", "hardware", "personal"]
 +++
 
-Let me introduce you to my Skyloong SK61.
+Hi! This is my keyboard:
 
-It has Gateron Optical switches, a plastic case, and cheap components throughout. It is scratched beyond repair. The feet fell off long ago and were replaced with blobs of hot glue. The USB-C port is loose. The firmware doesn't work on Linux. By any objective measure, it is not a good keyboard.
+<img src="sk61.webp" width="75%" height="auto" title="es key siksti van">
 
-I love it deeply.
+It... has issues, but still I love to the moon.
 
-I've done everything to it. The stabilizers are lubed with free Krytox samples. There's a bandaid mod in there. The foam dampening is sourced from various things I found around the house. It looks like a keyboard that was assembled by someone who had never seen a keyboard before but had read about them extensively.
+It's a Skyloong (Epomaker?) SK61, and there's nothing special about it. Plastic case, cheap PCB and chip, weird firmware, no wireless or anything. Gateron Optical switches (a mix of browns for the letters and reds for the surroundings). I got it a few years ago second hand, from <a href="https://sahibinden.com">the Turkish equivalent of Craigslist.</a>
 
-Despite all of this—because of all of this—it was with me through every important career change, through getting married, through countless late nights and early mornings. I've customized the keymap to the point where my fingers know it better than they know anything else. It has become an extension of myself.
+The stabilizers were cut down with my wife's nail cutters. They were lubed with some Krytox I got for free in a keyboard meetup, and filled in with some other thicker lube that came free with my 3D Printer. Modded with cheap Flea Market™ bandaids. I used some weird sticker sided (?) foamish thing I found around the house to fill in the void, I don't even know where those came from. The case, keycaps, PCB, midplate and all are scratched and damaged beyond repair. Half the feet are missing (replaced with hot glue of course). The USB-C port is loose. The chinesium software for it doesn't even work under Linux. It has RGB LEDs, but I almost never use it. It doesn't sound or feel <i>that</i> good either.[^sound-feel]
 
-It travels everywhere without a case, rattling around in whatever bag I happen to be carrying, next to an equally battle-worn Logitech mouse I picked up secondhand. Both have been repaired multiple times. Neither will be replaced.
+Yet I love this thing to the moon. It was with me through every important career change. It was there while I was getting married. It was used to write every article, important piece of email, every AoC challenge, Jira ticket response, every corny joke that I made.
 
-I'm afraid that if I get something new and objectively better, I'll never feel the same way about it. Some things are valuable not because of what they are, but because of what they've been through with you.
+<a href="https://github.com/artogahr/dotfiles/blob/master/gk6x/config.txt">The keymap configuration I made for it</a> is so perfect, it has become an extension of myself, and I'm very efficient with it. Despite all the abuse, everything Just Works™, capiche?
 
-There's a beauty in worn things. In objects that show their history. My keyboard is ugly and it is perfect.
+I still take it with me to work every time. No protection or anything, just chuck it in there, y'know? Same with a Logitech G603 that's also a Turkish™ Craigslist™ special™, and that one's been through even worse, having gotten repaired at least 3 times by yours truly.
+
+But they're beautiful in their own way, I honestly never want to replace them. I'm afraid I'll never love the next thing as much...
+
+<img title="Look how beautiful they look together" src="keyboard-mouse.png" alt="beauties">
+
+<hr>
+
+[^sound-feel]: It honestly sounds and feels really good <i>for me</i> though. I can not understate how lucky I feel to get a keyboard that satisfies me this much without going down the <a href="https://www.reddit.com/r/MechanicalKeyboards/top/?sort=top&t=all">Rabbit Hole™</a>

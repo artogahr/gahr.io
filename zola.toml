@@ -17,9 +17,9 @@ theme = "catppuccin-mocha"
 
 [extra]
 author = "Arto Gahr"
-list_pages = true
 header_nav = [
     { name = "~home", url = "/" },
     { name = "blog", url = "/blog" },
     { name = "github", url = "https://github.com/artogahr", new_tab = true },
+    { name = "contact", url = "/contact" },
 ]
