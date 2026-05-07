@@ -21,5 +21,6 @@ header_nav = [
     { name = "~home", url = "/" },
     { name = "blog", url = "/blog" },
     { name = "github", url = "https://github.com/artogahr", new_tab = true },
+    { name = "resume", url = "https://github.com/artogahr/resume/blob/main/Artoghrul%20Gahramanli.pdf", new_tab = true },
     { name = "contact", url = "/contact" },
 ]
